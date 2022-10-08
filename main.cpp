@@ -234,7 +234,6 @@ int main() {
                 }
 
             }
-
         }
 
         cout <<  "\nDo you want to exit, or you want to continue? \n1 - continue 2 - exit\n";
