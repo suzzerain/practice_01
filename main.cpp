@@ -76,7 +76,6 @@ int main() {
        }
 
 
-
     int d = 0;
     do {
 
